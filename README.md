@@ -14,7 +14,7 @@ I passed the entrance exams including Piscine, one month of 12hrs+ a day of codi
 Listed from newest to oldest, here is a list of projects completed within the first 10 months of Hive.
 
 ### [Corewar](https://github.com/jiricodes/corewar)
-![](corewar_preview.gif)
+![](https://raw.githubusercontent.com/jiricodes/corewar/master/corewar_preview.gif)
 
 Assembly language and virtual machine intoduction. Simplified version of popular coding game [Core War](https://en.wikipedia.org/wiki/Core_War).
 
