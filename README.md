@@ -40,7 +40,16 @@ Basic function that reads files line by line. Now standard part of my Libft.
 Part of standard C Library recoded, serves as a base for most of my projects in Hive. Keeps getting updated and refactored as I progress through the curriculum.
 
 ## Related Side Projects
+I've done some small projects on side for educational, professional and fun reasons. I'd like to mention a few.
 
+### [Babel](https://github.com/Artemso/BTTLR_hackathon)
+Cooperative project created in less than 48 hours for [Back to the living room Hackathon](https://backtothelivingroom.tech/). Babel translates videos while attempting to maintain speaker's voice.
+
+### [WoltApp Summer 2020](https://github.com/jiricodes/woltapp2020)
+Internship application home assignment for Wolt. Small API in python3 that returns list of restaurants based on query's location and keyword.
+
+### [MapBox Home Assignment](https://github.com/jiricodes/mapbox_home)
+MapBox's internship assignment that made me to work with JavaScript for the first time.
 
 
 
