@@ -14,12 +14,18 @@ I passed the entrance exams including Piscine, one month of 12hrs+ a day of codi
 Listed from newest to oldest, here is a list of projects completed within the first 10 months of Hive.
 
 ### [Corewar](https://github.com/jiricodes/corewar)
+![](corewar_preview.gif)
+
+Assembly language and virtual machine intoduction. Simplified version of popular coding game [Core War](https://en.wikipedia.org/wiki/Core_War).
 
 ### [Lem_in](https://github.com/jiricodes/lem_in)
+Max Flow graph problem solution simulated with help of an ant farm. The implementation used Ford-Fulkerson algorithm which has satisfactory efficiency and speed.
 
 ### [Push_swap](https://github.com/jiricodes/push_swap)
+Introduction to sorting algorithms. Solution was a mixture of quicksort and insertsort.
 
 ### [Filler](https://github.com/jiricodes/42_filler)
+Small AI (algorithmic bot) project that plays a game of Filler. The VM gives each bot a board and piece to place. A bot which is able to place more tiles wins. 
 
 ### [ft_printf](https://github.com/jiricodes/Libft)
 This project made me to recode the C's printf function. Currently part of my Libft.
