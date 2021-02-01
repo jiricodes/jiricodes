@@ -3,6 +3,8 @@ Aspiring back end developer with a robust soft skills base gained in almost deca
 
 At the moment I'm practising and developing my skills at Hive Helsinki through coding various project and algorithms, subsequently it also positively affects my rigour, problem solving and time management.
 
+![jiricodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jiricodes&show_icons=true&title_color=FFFFFF&text_color=EBD8D4&bg_color=000000&include_all_commits=true)
+
 # Hive Helsinki
 
 [Hive Helsinki](https://www.hive.fi/en/) is a coding school following [42](https://en.wikipedia.org/wiki/42_(school)) educational model.
