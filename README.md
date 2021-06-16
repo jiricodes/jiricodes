@@ -1,7 +1,9 @@
 # About
-Aspiring back end developer with a robust soft skills base gained in almost decade as customer service professional and with former education within international business and logistics field.
+Aspiring software engineer with a robust soft skills base gained in almost decade as customer service professional and with former education within international business and logistics field.
 
-At the moment I'm practising and developing my skills at Hive Helsinki through coding various project and algorithms, subsequently it also positively affects my rigour, problem solving and time management.
+Currently I’m working full-time as Security Researcher at Ericsson.
+
+Also I'm practicing and developing my skills at Hive Helsinki through coding various projects and algorithms, subsequently it also positively affects my rigour, problem solving and time management.
 
 ![jiricodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jiricodes&show_icons=true&title_color=FFFFFF&text_color=EBD8D4&bg_color=000000&include_all_commits=true)
 
